@@ -1,4 +1,4 @@
 # firstruntest
- Learn the system
-ok, now we're getting somewhere
-edited in VS Code
+ Learn the system without fall
+ok, now we're getting there
+edited in VS Code and now it already uploaded
